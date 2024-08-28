@@ -32,7 +32,7 @@ class ContactCard extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
                 const CircleAvatar(
-                  backgroundImage: AssetImage("E:\duyen.ipg"),
+                  backgroundImage: AssetImage("images/duyen.ipg"),
                   backgroundColor: Colors.transparent,
                   radius: 80,
                 ),
